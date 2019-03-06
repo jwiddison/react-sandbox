@@ -1,3 +1,7 @@
+# React-Sandbox
+
+Just a fun app to play around with some react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
